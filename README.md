@@ -13,3 +13,8 @@
  <img src="https://profile-counter.glitch.me/asgharmalik37/count.svg" />
 
 </p>
+<a href="https://github.com/asgharmalik37/filecrack2"><img title="filecrack2" src="https://github-readme-stats.vercel.app/api/pin/?username=asgharmalik37&repo=filecrack2&theme=vision-friendly-dark"></a>
+<a href="https://github.com/asgharmalik37/filecrack4"><img title="filecrack4" src="https://github-readme-stats.vercel.app/api/pin/?username=asgharmalik37&repo=filecrack4&theme=dark"></a>
+<a href="https://github.com/asgharmalik37/hpro"><img title="hpro" src="https://github-readme-stats.vercel.app/api/pin/?username=asgharmalik37&repo=hpro&theme=vision-friendly-dark"></a>
+<a href="https://github.com/asgharmalik37/filecrack3"><img title="filecrack3" src="https://github-readme-stats.vercel.app/api/pin/?username=asgharmalik37&repo=filecrack3&theme=tokyonight"></a>
+</p>
